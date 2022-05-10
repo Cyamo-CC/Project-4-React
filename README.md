@@ -1,3 +1,11 @@
+# -Coders notes- Project 4 React app (For Project 3 "Restaurants api" Front)
+As you can see this code is not done. This was my first toutch to react and unfortunately I did not have time to finish this.
+I struggled too long with the filtering. First, I learned how to add the serch bar from another .js file but since I had to modify it i ended up merging it to App file.
+Since I was still learning data targeting and linking between files I ran out of time and submitted this.
+In the future I would love to separate all of the paths of backend to their own front paths. I also spend a lot of time in backed handeling Arrays, nut didn't know how to handle them in front.
+
+These are all jobs for future me!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
